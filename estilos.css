@@ -1,0 +1,164 @@
+BODY {
+        background : White;
+}
+
+A {
+        text-decoration : none;
+}
+
+
+FONT.FBT {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: Yellow;
+        font-weight : bold;
+}
+
+FONT.F1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:15px;
+        color: #FFFF33;
+        font-weight : bold;
+}
+
+FONT.F2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        color: Black;
+        font-weight : 700;
+}
+
+FONT.FM {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: White;
+        font-weight : bold;
+        text-align : center;
+}
+
+FONT.FT {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        color: Navy;
+        font-weight : bold;
+        text-align : justify;
+        padding-left : 5px;
+}
+
+FONT.FS {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: #FF0033;
+        font-weight : bold;
+        text-align : justify;
+        padding-left : 5px;
+}
+
+FONT.FX {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: Black;
+        font-weight : normal;
+        margin-left : 10px;
+        text-align : justify;
+}
+
+FONT.FR {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: White;
+        font-weight : bold;
+        margin-left : 10px;
+}
+
+FONT.FA {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        color: Red;
+        font-weight : bold;
+        margin-left : 10px;
+        text-align : justify;
+        padding-left : 5px;
+        font-weight : normal;
+        text-align : justify;
+}
+
+FONT.CON {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        color: Black;
+        font-weight : bolder;
+}
+
+FONT.RO {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:10px;
+        color: Yellow;
+}
+
+
+.TAB_TIT1L
+{
+        color:yellow;
+        font-size: 18px;
+        font-family:Arial, sans-serif;
+        text-align:center;
+        background:blue;
+}
+.TAB_SUBTIT1C
+{
+        color:red;
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        text-align:center;
+        font-weight : bold;
+        background: White;
+}
+.TAB_SUBTIT2C3C
+{
+        color:red;
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        font-weight : bold;
+        text-align:center;
+        background:#FFFF99;
+}
+.TAB_SUBTIT4C
+{
+        color:red;
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        font-weight : bold;
+        text-align:center;
+        background:#99CCFF;
+}
+.TAB_1C
+{
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        color: Black;
+        text-align:left;
+}
+.TAB_2C
+{
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        text-align:center;
+        font-weight : bold;
+        background:#FFFF99;
+}
+.TAB_3C
+{
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        text-align:center;
+        background:#FFFF99;
+}
+.TAB_4C
+{
+        font-family:Arial, sans-serif;
+        font-size:10.0pt;
+        font-size:10.0pt;
+        text-align:center;
+        background:#99CCFF;
+}
